@@ -1,0 +1,1 @@
+This is just a bunch of short Python scripts and pieces for fun and testing. All will be Python 3 unless otherwise noted and there should be a readme in each folder for the scripts. 
